@@ -22,6 +22,12 @@
 
 #####  [存内计算-现有应用场景](存内计算- 现有应用场景:)
 
+#####  [存内计算-存内计算研究进展](存内计算- 存内计算研究进展:)
+
+#####  [存内计算-存内计算在机器学习领域作用](存内计算- 存内计算在机器学习领域作用:)
+
+#####  [存内计算-存内计算加速器](存内计算- 存内计算加速器:)
+
 
 
 ## 存内计算 ISSCC 34系列：
@@ -227,5 +233,178 @@ Paper: https://www.sciencedirect.com/science/article/pii/S0167739X21000286
 ###### 3.In-Memory Computing with Phase-Change Memory: Opportunities and Challenges
 
 Paper: https://www.sciencedirect.com/science/article/abs/pii/S0165562520301085
+
+
+
+
+## 存内计算- 存内计算研究进展:
+
+存内计算技术因其存储与计算一体化的特有优势，吸引了学术界和工业界的广泛关注。近年来，存内计算的研究进展主要集中在模拟与数字电路的融合、新型存储器件的开发以及提高计算精度和速度等方面。特别是在AI任务中，存内计算展现了卓越的能效与性能，推动了大规模神经网络加速器的设计和应用，以下是存内计算研究进展相关的高质量论文。
+
+
+###### 1.A full spectrum of computing-in-memory technologies
+
+Paper: https://www.nature.com/articles/s41928-023-01053-4 (https://doi.org/10.1038/s41928-023-01053-4)
+
+
+###### 2.Trends and challenges in the circuit and macro of RRAM-based computing-in-memory systems
+
+Paper: https://www.sciencedirect.com/science/article/pii/S2709472322000028 (https://doi.org/10.1016/j.chip.2022.100004)
+
+
+###### 3.A review on SRAM-based computing in-memory: Circuits, functions, and applications
+
+Paper: https://iopscience.iop.org/article/10.1088/1674-4926/43/3/031401/meta (https://doi.org/10.1088/1674-4926/43/3/031401)
+
+
+###### 4.Memory devices and applications for in-memory computing
+
+Paper: https://www.nature.com/articles/s41565-020-0655-z (https://doi.org/10.1038/s41565-020-0655-z)
+
+
+###### 5.In-Memory Computing: Advances and Prospects
+
+Paper: https://ieeexplore.ieee.org/abstract/document/8811809 (https://doi.org/10.1109/MSSC.2019.2922889)
+
+
+###### 6.Analog content-addressable memories with memristors
+
+Paper: https://www.nature.com/articles/s41467-020-15254-4 (https://doi.org/10.1038/s41467-020-15254-4)
+
+
+###### 7.An area-efficient in-memory implementation method of arbitrary Boolean function based on SRAM array
+
+Paper: https://ieeexplore.ieee.org/abstract/document/10202194 (https://doi.org/10.1109/TC.2023.3301156)
+
+
+
+###### 8.In-memory computing with resistive switching devices
+
+Paper: https://www.nature.com/articles/s41928-018-0092-2 (https://doi.org/10.1038/s41928-018-0092-2)
+
+
+
+###### 9.Mixed-precision in-memory computing
+
+Paper: https://www.nature.com/articles/s41928-018-0054-8 (https://doi.org/10.1038/s41928-018-0054-8)
+
+
+
+###### 10.A survey of SRAM-based in-memory computing techniques and applications
+
+Paper: https://www.sciencedirect.com/science/article/pii/S1383762121001909 (https://doi.org/10.1016/j.sysarc.2021.102276)
+
+
+
+## 存内计算- 存内计算在机器学习领域作用:
+
+存内计算技术通过将计算直接在存储单元中进行，大幅减少数据传输延迟和能耗，显著提升了机器学习模型的推理和训练效率。它特别适用于加速神经网络的矩阵运算，增强实时处理能力和能效​，以下是有关存内计算在机器学习领域作用相关的高质量论文。
+
+
+###### 1.FloatPIM: in-memory acceleration of deep neural network training with high precision
+
+Paper: https://dl.acm.org/doi/abs/10.1145/3307650.3322237 (https://doi.org/10.1145/3307650.3322237)
+
+
+###### 2.In-Memory Computing in Emerging Memory Technologies for Machine Learning: An Overview
+
+Paper: https://ieeexplore.ieee.org/abstract/document/9218505 (https://doi.org/10.1109/DAC18072.2020.9218505)
+
+
+###### 3.A 351TOPS/W and 372.4GOPS Compute-in-Memory SRAM Macro in 7nm FinFET CMOS for Machine-Learning Applications
+
+Paper: https://ieeexplore.ieee.org/document/9062985 (https://doi.org/10.1109/ISSCC19947.2020.9062985)
+
+
+###### 4.A 1.041-Mb/mm2 27.38-TOPS/W Signed-INT8 Dynamic-LogicBased ADC-less SRAM Compute-In-Memory Macro in 28nm with Reconfigurable Bitwise Operation for AI and Embedded Applications
+
+Paper: https://ieeexplore.ieee.org/abstract/document/9731545 (https://doi.org/10.1109/ISSCC42614.2022.9731545)
+
+
+###### 5.Edge learning using a fully integrated neuro-inspired memristor chip
+
+Paper: https://www.science.org/doi/abs/10.1126/science.ade3483 (https://doi.org/10.1126/science.ade3483)
+
+
+###### 6.An Energy-Efficient Computing-in-Memory Neuromorphic System with On-Chip Training
+
+Paper: https://ieeexplore.ieee.org/abstract/document/8918995 (https://doi.org/10.1109/BIOCAS.2019.8918995)
+
+
+###### 7.A High-Density and Reconfigurable SRAM-Based Digital Compute-In-Memory Macro for Low-Power AI Chips
+
+Paper: https://ieeexplore.ieee.org/document/10124240 (https://doi.org/10.1109/TCSII.2023.3276169)
+
+
+###### 8.Challenges and Trends of SRAM-Based Computing-In-Memory for AI Edge Devices
+
+Paper: https://ieeexplore.ieee.org/document/10124240 (https://doi.org/10.1109/TCSI.2021.3064189)
+
+
+###### 9.A High Energy Efficient Reconfigurable Hybrid Neural Network Processor for Deep Learning Applications
+
+Paper: https://ieeexplore.ieee.org/abstract/document/8207783 (https://doi.org/10.1109/JSSC.2017.2778281)
+
+
+###### 10.A Twin-8T SRAM Computation-In-Memory Macro for Multiple-Bit CNN-Based Machine Learning
+
+Paper: https://ieeexplore.ieee.org/abstract/document/8662392 (https://doi.org/10.1109/ISSCC.2019.8662392)
+
+
+
+## 存内计算- 存内计算加速器:
+
+存内计算加速器通过将计算与存储功能相结合，减少了数据传输的瓶颈，显著提升了机器学习任务中的能效和处理速度，尤其适用于加速神经网络中的矩阵运算，以下是存内计算加速器相关的高质量论文。
+
+
+###### 1.A 1–8b Reconfigurable Digital SRAM Compute-in-Memory Macro for Processing Neural Networks
+
+Paper: https://ieeexplore.ieee.org/abstract/document/10417860 (https://doi.org/10.1109/TCSI.2024.3355944)
+
+
+###### 2.A Convolution Neural Network Accelerator Design with Weight Mapping and Pipeline Optimization
+
+Paper: https://ieeexplore.ieee.org/abstract/document/10247977 (https://doi.org/10.1109/DAC56929.2023.10247977)
+
+
+###### 3.A 29.12 TOPS/W and 1.13 TOPS/mm2 NAS-Optimized Mixed-Precision DNN Accelerator with Vector Split- andCombination Systolic in 28nm CMOS
+
+Paper: https://ieeexplore.ieee.org/document/10529039 (https://doi.org/10.1109/CICC60959.2024.10529039)
+
+
+###### 4.Advances and Trends on On-Chip Compute-in-Memory Macros and Accelerators
+
+Paper: https://ieeexplore.ieee.org/abstract/document/10248014 (https://doi.org/10.1109/DAC56929.2023.10248014)
+
+
+###### 5.A Nonvolatile AI-Edge Processor with 4MB SLC-MLC Hybrid-Mode ReRAM Compute-in-Memory Macro and 51.4-251TOPS/W
+
+Paper: A Nonvolatile AI-Edge Processor with 4MB SLC-MLC Hybrid-Mode ReRAM Compute-in-Memory Macro and 51.4-251TOPS/W (https://doi.org/10.1109/ISSCC42615.2023.10067610)
+
+
+###### 6.A 2.75-to-75.9TOPS/W Computing-in-Memory NN Processor Supporting Set-Associate Block-Wise Zero Skipping and Ping-Pong CIM with Simultaneous Computation and Weight Updating
+
+Paper: https://ieeexplore.ieee.org/abstract/document/9365958 (https://doi.org/10.1109/ISSCC42613.2021.9365958)
+
+
+###### 7.TensorCIM: Digital Computing-in-Memory Tensor Processor With Multichip-Module-Based Architecture for Beyond-NN Acceleration
+
+Paper: https://ieeexplore.ieee.org/abstract/document/10555118 (https://doi.org/10.1109/JSSC.2024.3406569)
+
+
+###### 8.A 1ynm 1.25V 8Gb, 16Gb/s/pin GDDR6-based Accelerator-inMemory supporting 1TFLOPS MAC Operation and Various Activation Functions for Deep-Learning Applications
+
+Paper: https://ieeexplore.ieee.org/document/9731711 (https://doi.org/10.1109/ISSCC42614.2022.9731711)
+
+
+###### 9.Unified Agile Accuracy Assessment in Computing-in-Memory Neural Accelerators by Layerwise Dynamical Isometry
+
+Paper: https://ieeexplore.ieee.org/abstract/document/10247782 (https://doi.org/10.1109/DAC56929.2023.10247782)
+
+
+###### 10.Processing-in-SRAM Acceleration for Ultra-Low Power Visual 3D Perception
+
+Paper: https://dl.acm.org/doi/abs/10.1145/3489517.3530446 (https://doi.org/10.1145/3489517.3530446)
+
 
 
